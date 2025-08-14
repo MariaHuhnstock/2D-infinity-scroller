@@ -1,4 +1,4 @@
-**2D-Infinity-Scroller**
+# **2D-Infinity-Scroller**
 
 I developed this game with help from AI as part of a university project.
 The task was to create a fully functional, interactive computer game without using any game engines .
